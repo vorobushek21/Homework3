@@ -77,7 +77,7 @@ public class Main {
         int countClass = countPaint/paintOneClass;
         int countWhite = countClass*whiteOneClass;
         int countBrown = countClass*brownOneClass;
-        System.out.println("Для проведения всего ремонта в школе, где "+countClass+" классов, потребуется "+countWhite+" банок белой красски и "+countBrown+" банок коричневой краски");
+        System.out.println("Для проведения всего ремонта в школе, где "+countClass+" классов, потребуется "+countWhite+" банок белой краски и "+countBrown+" банок коричневой краски");
     }
     public static void task6() {
         System.out.println("Задание 6:");
